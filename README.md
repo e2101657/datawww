@@ -1,6 +1,7 @@
 # Weather Data Lakehouse Pipeline
 
-This project implements an end-to-end data pipeline using a modern lakehouse architecture. The pipeline processes real-time API data and historical data. The system supports both batch and streaming ingestion, and simple machine learning predictions.
+This project implements an end-to-end data pipeline using a modern lakehouse architecture. The pipeline processes real-time API data and historical data. The system supports both batch and streaming ingestion, and simple machine learning predictions. 
+We used AI to  fix  our  errors from the code  because there were problems in the code we were writing.
 
 ## Architecture
 
@@ -94,3 +95,4 @@ Snowflake integration
 ## Conclusion
 
 This project demonstrates a scalable data engineering solution using lakehouse architecture. It integrates multiple data sources, processes them, and enables both analytical and predictive use cases.
+
