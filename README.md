@@ -64,6 +64,10 @@ Table: WEATHER_DATA
 Example query:
 SELECT * FROM WEATHER_DB.PUBLIC.WEATHER_DATA;
 
+<img width="1270" height="427" alt="image" src="https://github.com/user-attachments/assets/0975bd9b-92d0-4756-b2be-ee0353c3bda2" />
+
+
+
 ## How to run
 
 Run batch ingestion:
